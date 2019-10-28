@@ -30,7 +30,7 @@ dns:
 etcd:
   local:
     dataDir: /var/lib/etcd
-kubernetesVersion: v1.16.0
+kubernetesVersion: v1.16.2
 networking:
   dnsDomain: cluster.local
   podSubnet: "10.244.0.0/16"
